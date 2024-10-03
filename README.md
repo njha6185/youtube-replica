@@ -7,3 +7,8 @@
         - ButtonList
         - Videocontainer
             - Videocard
+
+- Debouncing
+- youtube popular video
+- search api
+- youtube card
